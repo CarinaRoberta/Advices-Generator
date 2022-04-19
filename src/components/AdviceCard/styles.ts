@@ -46,6 +46,7 @@ const Button = styled.button`
   display: flex;
   align-items: center;
   justify-content: center;
+  transition: all 0.3s ease;
 
   img {
     width: 1rem;
